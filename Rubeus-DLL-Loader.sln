@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubeus-DLL-Loader", "Rubeus-DLL-Loader\Rubeus-DLL-Loader.csproj", "{872EF18A-6739-4335-AED2-D10976F4838A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872EF18A-6739-4335-AED2-D10976F4838A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872EF18A-6739-4335-AED2-D10976F4838A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872EF18A-6739-4335-AED2-D10976F4838A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872EF18A-6739-4335-AED2-D10976F4838A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE956C62-8E2D-48E2-8C51-EF22D47514DB}
+	EndGlobalSection
+EndGlobal
